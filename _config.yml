@@ -1,12 +1,3 @@
 theme: jekyll-theme-hacker
 title: Raven2Six's homepage
 description: Thanks for stopping by.  Most of the information shared on this page is my notes - unfiltered and raw - of various personal projects I am working on.  The remainder is a combination of my thoughts on various industry topics as well as some information about me and my skillset. Feel free to drop me a line
-url: https://raven2six.github.io
-
-module:
-  mounts:
-    - source: about
-      target: /about/about.md
-    - source: notes
-      target: /notes/notes.md
-
